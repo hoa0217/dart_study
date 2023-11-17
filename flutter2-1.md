@@ -4,7 +4,7 @@
 
 ### Flutter UI에서 Widget이란?
 - Widget : Flutter UI의 가장 기본적인 단위
-- UI를 구성하는 각각의 요소가 모두 Wiget으로 이루어져있다.
+- UI를 구성하는 각각의 요소가 모두 Widget으로 이루어져있다.
 - ex) 간단한 블록, 텍스트 입력 창, 심지어 특정 요소 간의 간격 등
 - Flutter 개발자는 이 **Widget을 얼마나 적제적소에 사용하느냐**가 관건
 - Flutter는 기본 SDK의 Widget, pub.dev 등 오픈소스 Widget을 더한다면 상당히 많다.
@@ -20,9 +20,11 @@
 
 ### 프로젝트 설정
 1. fvm 버전 선택
+   
    ![](https://velog.velcdn.com/images/gjwjdghk123/post/57f12434-c501-40ff-a483-129bbc5497a5/image.png)
 
-2. 프로젝트 이름, 도메인, 언어, 플랫폼 선택 후 create
+3. 프로젝트 이름, 도메인, 언어, 플랫폼 선택 후 create
+   
    ![](https://velog.velcdn.com/images/gjwjdghk123/post/6941fcb1-4577-4c24-9838-e588cedb583f/image.png)
 
 > 1. Flutter Pub Get
