@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Widget을 상하좌우로 배치하기'),
+          title: Text('Widget을 겹겹히 쌓아 배치하기'),
         ),
         body: Body(),
       ),
@@ -18,6 +18,6 @@ class Body extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Placeholder();
   }
 }
