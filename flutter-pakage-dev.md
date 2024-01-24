@@ -15,4 +15,7 @@
 
 > 애초에 Dart는 웹어플리케이션을 만들기위해 탄생함. 첫번째 패키지도 js임.
 
-
+### 프로젝트 생성
+```bash
+flutter create shake_count_app
+```

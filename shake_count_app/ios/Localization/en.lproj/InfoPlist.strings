@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 허정화 on 1/11/24.
+  
+*/
+"CFBundleDisplayName" = "Shake Count";
